@@ -15,4 +15,4 @@ Documentation about the relend deployments on several testnets
 | L2 Network | Token Name | Contract Address |
 |------------|------------|------------------|
 | Morph | rUSDC-morph | [0x1593EC75d7Fd91F0bB921825453BfA6032915115](https://holesky.etherscan.io/address/0x1593EC75d7Fd91F0bB921825453BfA6032915115) |
-| Taiko | rUSDC-taiko | - |
+| Taiko | rUSDC-taiko | [0x3531756639083431DBE8E959f62bD93b5E4155b7](https://holesky.etherscan.io/address/0x3531756639083431DBE8E959f62bD93b5E4155b7) |
