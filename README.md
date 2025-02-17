@@ -13,5 +13,6 @@ Documentation about the relend deployments on several testnets
 ## Holesky (0xe88a217b3C00eFf21e02B83991e0a1BAFeA084Ca)
 
 | L2 Network | Token Name | Contract Address |
+|------------|------------|------------------|
 | Morph | rUSDC-morph | - |
 | Taiko | rUSDC-taiko | - |
