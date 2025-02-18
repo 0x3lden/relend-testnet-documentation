@@ -14,6 +14,7 @@ Documentation about the relend deployments on several testnets
 | L2 Network | Token Name | Contract Address |
 |------------|------------|------------------|
 | Hemi | rUSDC-hemi | [0x48589961e8474B47baB878E4844BAB827Ea73A1e](https://sepolia.etherscan.io/address/0x48589961e8474B47baB878E4844BAB827Ea73A1e) |
+| Stark | rUSDC-stark | [0xAc1C2ab682beBEF93A57d7b052Cc0780C016761A](https://sepolia.etherscan.io/address/0xAc1C2ab682beBEF93A57d7b052Cc0780C016761A) |
 
 ## Holesky ([0xe88a217b3C00eFf21e02B83991e0a1BAFeA084Ca](https://holesky.etherscan.io/address/0xe88a217b3C00eFf21e02B83991e0a1BAFeA084Ca))
 
