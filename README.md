@@ -5,9 +5,9 @@ Documentation about the relend deployments on several testnets
 
 ## Starknet ([0xF6217de888fD6E6b2CbFBB2370973BE4c36a152D](https://sepolia.etherscan.io/address/0xF6217de888fD6E6b2CbFBB2370973BE4c36a152D))
 
-| L2 Network | Token Name | Contract Address |
-|------------|------------|------------------|
-| Starknet | rUSDC-stark | [0x01c5814d7b2e7e38f10d38128c8e5e219fe610fc7a36ad86b78afb325dd2d9bd](https://sepolia.starkscan.co/token/0x01c5814d7b2e7e38f10d38128c8e5e219fe610fc7a36ad86b78afb325dd2d9bd)
+| L2 Network | Token Name | Contract Address | Bridge UI |
+|------------|------------|------------------|-----------|
+| Starknet | rUSDC-stark | [0x01c5814d7b2e7e38f10d38128c8e5e219fe610fc7a36ad86b78afb325dd2d9bd](https://sepolia.starkscan.co/token/0x01c5814d7b2e7e38f10d38128c8e5e219fe610fc7a36ad86b78afb325dd2d9bd) | https://starkgate.starknet.io/bridge/deposit |
 
 ## Sepolia ([0x02eA187D39f8F612c7A16Ba5D05B21bbEA28eF82](https://sepolia.etherscan.io/address/0x02eA187D39f8F612c7A16Ba5D05B21bbEA28eF82))
 
