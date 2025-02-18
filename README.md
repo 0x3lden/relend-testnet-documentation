@@ -7,7 +7,7 @@ Documentation about the relend deployments on several testnets
 
 | L2 Network | Token Name | Contract Address |
 |------------|------------|------------------|
-| Starknet | rUSDC-starknet | [0x05407a546950d29582657ed3be7945fce0909d3141521417cf878b64be7873d0](https://sepolia.starkscan.co/contract/0x05407a546950d29582657ed3be7945fce0909d3141521417cf878b64be7873d0)
+| Starknet | rUSDC-stark | [0x01c5814d7b2e7e38f10d38128c8e5e219fe610fc7a36ad86b78afb325dd2d9bd](https://sepolia.starkscan.co/token/0x01c5814d7b2e7e38f10d38128c8e5e219fe610fc7a36ad86b78afb325dd2d9bd)
 
 ## Sepolia ([0x02eA187D39f8F612c7A16Ba5D05B21bbEA28eF82](https://sepolia.etherscan.io/address/0x02eA187D39f8F612c7A16Ba5D05B21bbEA28eF82))
 
