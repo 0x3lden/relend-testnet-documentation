@@ -22,9 +22,4 @@ Documentation about the relend deployments on several testnets
 |------------|------------|------------------|
 | Morph | rUSDC-morph | [0x1593EC75d7Fd91F0bB921825453BfA6032915115](https://holesky.etherscan.io/address/0x1593EC75d7Fd91F0bB921825453BfA6032915115) |
 | Taiko | rUSDC-taiko | [0x3531756639083431DBE8E959f62bD93b5E4155b7](https://holesky.etherscan.io/address/0x3531756639083431DBE8E959f62bD93b5E4155b7) |
-
-## Bitlayer ([0x39378d5e11fadcecaf335a0ba035ae4526830b04](https://testnet.btrscan.com/address/0x39378d5e11fadcecaf335a0ba035ae4526830b04))
-
-| L2 Network | Token Name | Contract Address |
-|------------|------------|------------------|
-| Bitlayer   | rUSDC-bit | [0xf59a0b7195c38e5e2da605f9bd5121c2b1ea32ec](https://testnet.btrscan.com/address/0xf59a0b7195c38e5e2da605f9bd5121c2b1ea32ec) |
+| Bitlayer   | rUSDC-bit | [0x61F3e9C2B078f6245513a40035B5Ff0592896e41](https://holesky.etherscan.io/address/0x61F3e9C2B078f6245513a40035B5Ff0592896e41) |
