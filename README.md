@@ -27,4 +27,4 @@ Documentation about the relend deployments on several testnets
 
 | L2 Network | Token Name | Contract Address |
 |------------|------------|------------------|
-| -          | rUSDC-bitlayer | [0x82Aa2a21d6aBc915F82C1ED360dbD274b17b79AF](https://testnet.btrscan.com/address/0x82Aa2a21d6aBc915F82C1ED360dbD274b17b79AF) |
+| -          | rUSDC-bitlayer | [0xf59a0b7195c38e5e2da605f9bd5121c2b1ea32ec](https://testnet.btrscan.com/address/0xf59a0b7195c38e5e2da605f9bd5121c2b1ea32ec) |
